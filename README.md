@@ -8,7 +8,7 @@
 <ul>
 <li>A cell can go from dead to alive (be born) if it has 3 alive cells adjacent to it.</li>
 <li>A cell will remain alive if it has 2 or 3 alive cells adjacent to it.</li>
-<li>In all other cases a cell will die, from either lonliness (if it has less than 2 alive adjacent cells), or suffocation (if it has more than 3 alive adjacent cells)
+<li>In all other cases a cell will die, from either loneliness (if it has less than 2 alive adjacent cells), or suffocation (if it has more than 3 alive adjacent cells)
 </ul>
 
 Reference/Information:
